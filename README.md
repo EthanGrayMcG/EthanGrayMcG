@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EthanGrayMcG
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Javascript and Swift
+- 🌱 I’m currently learning Javascript, Java, React (Native), Typescript and Swift
 - 💞️ I’m looking to collaborate on web or app based projects
 - 📫 How to reach me: ethanmcg.com
 
